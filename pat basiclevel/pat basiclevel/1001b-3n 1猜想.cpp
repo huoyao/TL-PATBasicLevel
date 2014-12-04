@@ -25,6 +25,7 @@ int main()
       ++cnt;
     }
   }
+
   printf("%d\n",cnt);
   system("pause");
   return 0;
